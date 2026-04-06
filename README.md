@@ -22,4 +22,6 @@ The workflow covers the full pipeline from data cleaning to modeling and busines
 8. Promotion Analysis : Compared promotional vs non-promotional transactions - used t-test for statistical performance, confidence intervals estimated along with the effect size (Cohen's d)
    - Promotion impacts revenues but effect varies (not a strong or consistent driver of revenue).
 
-![Tableau Dashboards] (dashboard_1.png) (dashboard_2.png)
+![Dashboard 1](dashboard_1.png)
+
+![Dashboard 2](dashboard_2.png)
